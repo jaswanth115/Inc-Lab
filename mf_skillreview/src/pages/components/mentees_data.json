@@ -1,0 +1,18 @@
+[
+    {
+        "photo": "https://static.cdn.epam.com/avatar/68f310872afde56093443db6c2de4552.jpg",
+        "name": "Name1",
+        "designation":"Lead Software Engineer"
+    },
+    {
+        "photo": "https://static.cdn.epam.com/avatar/68f310872afde56093443db6c2de4552.jpg",
+        "name": "Name2",
+        "designation":"Jr Software Engineer"
+    },
+    {
+        "photo": "https://static.cdn.epam.com/avatar/68f310872afde56093443db6c2de4552.jpg",
+        "name": "Name3",
+        "designation":"Senior Software Engineer"
+    }
+
+]

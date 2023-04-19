@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "React Component Definition (EcmaScript 5 or EcmaScript 2015 syntax, functional and class components)"
+    },
+    {
+        "id": 2,
+        "title": "React Component Props (PropTypes typechecking, default prop values)"
+    },
+    {
+        "id": 3,
+        "title": "React Component State (initial state, setState, statefull vs stateless components)"
+    },
+    {
+        "id": 4,
+        "title": "React Component Lifecycle (mounting, updating, unmounting, state/props changes)"
+    },
+    {
+        "id": 5,
+        "title": "Components Composition (props.children, composition vs inheritance, lifting state up, practical decomposition task)"
+    },
+    {
+        "id": 6,
+        "title": "JSX (embedding expressions, attributes, childrens)"
+    },
+    {
+        "id": 7,
+        "title": "React DOM (refs, findDOMNode, difference in attributes (className, style, defaultChecked))"
+    },
+    {
+        "id": 8,
+        "title": "React DOM Events (SyntheticEvent, persist event)"
+    },
+    {
+        "id": 9,
+        "title": "Forms (controlled/uncontrolled components)"
+    },
+    {
+        "id": 10,
+        "title": "Virtual DOM (concept, keys)"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Basic HTML Page Structure"
+    },
+    {
+        "id": 2,
+        "title": "Document Type Definition, HTML, XHTML"
+    },
+    {
+        "id": 3,
+        "title": "Metadata, Styles, Scripts"
+    },
+    {
+        "id": 4,
+        "title": "Text Formatting Tags And CSS Text Formatting"
+    },
+    {
+        "id": 5,
+        "title": "Table"
+    },
+    {
+        "id": 6,
+        "title": "Form, Input Tags"
+    },
+    {
+        "id": 7,
+        "title": "CSS Rules, Selectors"
+    },
+    {
+        "id": 8,
+        "title": "CSS Decoration (border, background, text-decoration, text-transform)"
+    },
+    {
+        "id": 9,
+        "title": "Box and Text Shadow"
+    },
+    {
+        "id": 10,
+        "title": "CSS Units"
+    }
+]
